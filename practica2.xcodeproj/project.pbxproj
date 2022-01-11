@@ -16,6 +16,7 @@
 		CD5222F2278CD40300036432 /* Contacto.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD5222F1278CD40300036432 /* Contacto.swift */; };
 		CDC1527C278DC9BF00E7AB98 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC1527B278DC9BF00E7AB98 /* ViewController2.swift */; };
 		CDC1527E278DDBE400E7AB98 /* Empleado.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC1527D278DDBE400E7AB98 /* Empleado.swift */; };
+		CDC15280278DDCF600E7AB98 /* Nomina.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC1527F278DDCF600E7AB98 /* Nomina.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		CD5222F1278CD40300036432 /* Contacto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Contacto.swift; sourceTree = "<group>"; };
 		CDC1527B278DC9BF00E7AB98 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		CDC1527D278DDBE400E7AB98 /* Empleado.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Empleado.swift; sourceTree = "<group>"; };
+		CDC1527F278DDCF600E7AB98 /* Nomina.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nomina.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				CD5222E1278CCF2C00036432 /* ViewController.swift */,
 				CD5222F1278CD40300036432 /* Contacto.swift */,
 				CDC1527D278DDBE400E7AB98 /* Empleado.swift */,
+				CDC1527F278DDCF600E7AB98 /* Nomina.swift */,
 				CD5222E3278CCF2C00036432 /* Main.storyboard */,
 				CDC1527B278DC9BF00E7AB98 /* ViewController2.swift */,
 				CD5222E6278CCF2E00036432 /* Assets.xcassets */,
@@ -147,6 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CDC15280278DDCF600E7AB98 /* Nomina.swift in Sources */,
 				CDC1527E278DDBE400E7AB98 /* Empleado.swift in Sources */,
 				CDC1527C278DC9BF00E7AB98 /* ViewController2.swift in Sources */,
 				CD5222F2278CD40300036432 /* Contacto.swift in Sources */,
